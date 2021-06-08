@@ -1,7 +1,7 @@
 # Angular Social media app [Frontend]
 
 This is an example of a simple social media, using MEAN Stack: MongoDB, Express.js, Angular and Node.js and deployed to heroku.
-[Heroku link:-](https://angular-social-media-app-front.herokuapp.com)
+Heroku link:- [angular-social-media-app](https://angular-social-media-app-front.herokuapp.com)
 
 ## Application Stack
 
